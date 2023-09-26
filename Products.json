@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Nombre del Producto",
+    "description": "Descripción del Producto",
+    "price": "Precio del Producto",
+    "thumbnail": "Ruta de Imagen del Producto",
+    "code": "Codigo del Producto",
+    "stock": "Stock del Producto",
+    "id": 1
+  }
+]
